@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I’m a Software Engineer with previous experience in Product Management and App Development.
+- 🌱 I’m currently learning Python, Django & PostgreSQL
+- 📫 How to reach me: shaexin@icloud.com
 
 <!--
 **shaepy/shaepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
