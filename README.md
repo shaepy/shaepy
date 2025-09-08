@@ -1,6 +1,14 @@
-## Hi there 👋 I’m a Software Engineer with previous experience in Product Management and App Development.
-- 🌱 I’m currently learning Python, Django & PostgreSQL
-- 📫 How to reach me: shaexin@icloud.com
+## 👋 Hi, I’m Shae! I’m a former Product Leader with 8 years of experience in mobile and web apps, now pivoting into full-stack software engineering.
+
+My favorite project is my stock portfolio management tool, **moneymoo**, that lets users log trades, track unrealized gains/losses, search and browse trending stocks, and monitor watchlists with real-time market data APIs.
+
+I especially enjoy backend development and designing efficient database structures, as well as building secure authentication, and creating robust APIs. With a background in product management and data analysis, I bring the same curiosity and data-driven mindset when approaching both frontend and backend development.
+
+- **Languages** ∙ JavaScript, Java, Python, SQL, HTML, CSS
+- **Frameworks**/**Runtime** ∙ Node.js, Express, EJS, React, Tailwind
+- **Databases** ∙ MongoDB, PostgreSQL, Redshift
+
+📫 Let's connect: shaexin@icloud.com
 
 <!--
 **shaepy/shaepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
