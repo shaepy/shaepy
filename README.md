@@ -26,8 +26,8 @@ A pixel-themed Blackjack game built with JavaScript, HTML, and CSS, featuring in
 
 ---
 
-- **Languages** ∙ JavaScript, Python, SQL, HTML, CSS
-- **Frameworks**/**Runtime** ∙ Node.js, Express, EJS, React, Tailwind
+- **Languages** ∙ JavaScript, Python, C#, SQL, HTML, CSS
+- **Frameworks**/**Runtime** ∙ Node.js, Express, EJS, React, Tailwind, .NET
 - **Databases** ∙ MongoDB, PostgreSQL, Redshift
 
 <!--
