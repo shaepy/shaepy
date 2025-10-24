@@ -24,6 +24,9 @@ A full-stack MERN (MongoDB, Express, React, Node.js) app for managing studio cla
 
 A pixel-themed Blackjack game built with JavaScript, HTML, and CSS, featuring interactive gameplay and persistent score tracking.
 
+#### PocketShop (in progress)
+A full-stack Django REST and React app for creating and managing online shops. It supports secure authentication for vendors and buyers, enabling features like product listings, shop management, mock payments, and order tracking. The platform provides a seamless e-commerce experience that connects small sellers with customers in a modern, intuitive marketplace.
+
 ---
 
 - **Languages** ∙ JavaScript, Python, SQL, HTML, CSS
