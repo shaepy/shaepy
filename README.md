@@ -12,11 +12,11 @@ I’m a former Product Leader with 8 years of experience in mobile and web apps,
 
 My favorite project is my stock portfolio management tool, moneymoo, built with the MEN stack (MongoDB, Express, Node.js and EJS) and real-time market data APIs. It enables users to log trades, track unrealized gains/losses, search and browse trending stocks, and manage personalized watchlists — combining backend data modeling with user-friendly portfolio insights.
 
-#### PocketShop
+#### PocketShop (collaborative)
 
 [View Frontend Repo](https://github.com/shaepy/pocketshop-frontend) ∙ [View Backend Repo](https://github.com/shaepy/pocketshop-backend)
 
-A full-stack web app built with Django REST, PostgreSQL, and React that enables users to create and manage online shops. It features JWT-based authentication for vendors and buyers, allowing secure image uploads, product listings, shop management, mock payments, and order tracking.
+PocketShop is a full-stack group project built with Django REST, PostgreSQL, and React that enables users to create and manage online shops. It features JWT-based authentication for vendors and buyers, allowing secure image uploads, product listings, shop management, mock payments, and order tracking.
 
 #### StudioPass
 
