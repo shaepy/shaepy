@@ -16,7 +16,7 @@ My favorite project is my stock portfolio management tool, moneymoo, built with 
 
 #### PocketShop (collaborative)
 
-[View Frontend Repo](https://github.com/shaepy/pocketshop-frontend) ∙ [View Backend Repo](https://github.com/shaepy/pocketshop-backend)
+[View Frontend Repo](https://github.com/shaepy/pocketshop-frontend) ∙ [View Backend Repo](https://github.com/shaepy/pocketshop-backend) ∙ [Live Demo](https://pocketshop-app.netlify.app/)
 
 PocketShop is a full-stack group project built with Django REST, PostgreSQL, and React that enables users to create and manage online shops. It features JWT-based authentication for vendors and buyers, allowing secure image uploads, product listings, shop management, mock payments, and order tracking.
 
