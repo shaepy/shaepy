@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Shae.
 I’m a Product Leader with 8 years of experience in mobile and web apps. With a background in product management and data analysis, I bring the same curiosity and data-driven mindset when approaching both frontend and backend development. I enjoy designing efficient database structures, building secure authentication, and creating robust APIs.
 
-📄 View my Resume: https://tinyurl.com/54aek6uh
+📄 View my Resume: https://tinyurl.com/26xsthm7
 
 📫 Contact: shaexin@icloud.com
 
