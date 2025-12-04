@@ -3,7 +3,7 @@ I’m a Product Leader with 8 years of experience in mobile and web apps. With a
 
 📄 View my Resume: https://tinyurl.com/26xsthm7
 
-📫 Contact: shaexin@icloud.com
+📫 Contact: shaexin.t@gmail.com
 
 ---
 
