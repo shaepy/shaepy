@@ -6,7 +6,7 @@ I’m a Software Engineer with prior 8 years of product leadership experience, n
 ---
 
 - **Languages** ∙ TypeScript, JavaScript, Python, SQL
-- **Frameworks**/**Templates** ∙ Django, Express, React, Remix, Next.js
+- **Frameworks** ∙ Django, Express, React, Remix, Next.js
 - **Backend & APIs** ∙ Node.js, Google Cloud Functions, Zod
 - **Databases** ∙ MongoDB, PostgreSQL, BigQuery
 - **Cloud & Infrastructure** ∙ Google Cloud Platform (GCS, Cloud Tasks), Docker
