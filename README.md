@@ -5,6 +5,17 @@ I’m a Product Leader with 8 years of experience in mobile and web apps. With a
 
 ---
 
+- **Languages** ∙ TypeScript, JavaScript, Python, SQL
+- **Frameworks**/**Templates** ∙ Django, Express, React, Remix, Next.js
+- **Backend & APIs** ∙ Node.js, Google Cloud Functions, Zod
+- **Databases** ∙ MongoDB, PostgreSQL, BigQuery
+- **Cloud & Infrastructure** ∙ Google Cloud Platform (GCS, Cloud Tasks), Docker
+- **AI & LLM Systems** ∙ Vercel AI, OpenAI, Gemini, Anthrophic (Claude)
+- **Auth & Analytics** ∙ JWT, NextAuth, OAuth, PostHog
+- **Frontend & UI** ∙ HTML, CSS, Tailwind, Bulma CSS
+
+---
+
 ### 📌 Pinned Projects
 #### Moneymoo
 
@@ -23,18 +34,6 @@ PocketShop is a full-stack group project built with Django REST, PostgreSQL, and
 [View Repo](https://github.com/shaepy/studiopass)  ∙ [Live Demo](https://studiopass.netlify.app)
 
 A full-stack MERN (MongoDB, Express, React, Node.js) app for managing studio classes and bookings. It supports secure role-based access for owners, instructors, and students, enabling features like session scheduling, student reservations, and instructor management. The platform streamlines class organization and improves the booking experience for both staff and students.
-
-#### Pixeljack
-
-[View Repo](https://github.com/shaepy/pixeljack)  ∙ [Live Demo](https://shaepy.github.io/pixeljack/)
-
-A pixel-themed Blackjack game built with JavaScript, HTML, and CSS, featuring interactive gameplay and persistent score tracking.
-
----
-
-- **Languages** ∙ JavaScript, Python, SQL, HTML, CSS
-- **Frameworks**/**Templates** ∙ Node.js, Django, Express, React, EJS, Tailwind, Bulma CSS
-- **Databases** ∙ MongoDB, PostgreSQL, Redshift
 
 <!--
 **shaepy/shaepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
