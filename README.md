@@ -10,7 +10,7 @@ I’m a Software Engineer with prior 8 years of product leadership experience, n
 - **Backend & APIs** ∙ Node.js, Google Cloud Functions, Zod
 - **Databases** ∙ MongoDB, PostgreSQL, BigQuery
 - **Cloud & Infrastructure** ∙ Google Cloud Platform (GCS, Cloud Tasks), Docker
-- **AI & LLM Systems** ∙ Vercel AI, OpenAI, Gemini, Anthrophic (Claude)
+- **AI & LLM Systems** ∙ Vercel AI, OpenAI, Gemini, Anthropic (Claude)
 - **Auth & Analytics** ∙ JWT, NextAuth, OAuth, PostHog
 - **Frontend & UI** ∙ HTML, CSS, Tailwind, Bulma CSS
 
