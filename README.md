@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Shae.
-I’m a Software Engineer with prior 8 years of product leadership experience, now building AI-powered web applications and data-driven systems. My background in product and analytics informs how I architect APIs, design databases, implement authentication systems, and develop scalable backend services. I focus on clean system design, structured data workflows, and translating complex requirements into maintainable, production-ready code.
+I’m a Software Developer with prior 8 years of product leadership experience, now building AI-powered web applications and data-driven systems. My background in product and analytics informs how I architect APIs, design databases, implement authentication systems, and develop scalable backend services. I focus on clean system design, structured data workflows, and translating complex requirements into maintainable, production-ready code.
 
 📫 Contact: shaexin.t@gmail.com
 
