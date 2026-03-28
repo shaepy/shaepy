@@ -6,13 +6,12 @@ I’m a Software Engineer with prior 8 years of product leadership experience, n
 ---
 
 - **Languages** ∙ TypeScript, JavaScript, Python, SQL
-- **Frameworks** ∙ Django, Express, React, Remix, Next.js
-- **Backend & APIs** ∙ Node.js, Google Cloud Functions, Zod
+- **Frontend & UI** ∙ React, Remix, Next.js, HTML, CSS, Tailwind
+- **Backend & APIs** ∙ Node.js, Django, Express, Google Cloud Functions, Zod
 - **Databases** ∙ MongoDB, PostgreSQL, BigQuery
 - **Cloud & Infrastructure** ∙ Google Cloud Platform (GCS, Cloud Tasks), Docker
 - **AI & LLM Systems** ∙ Vercel AI, OpenAI, Gemini, Anthropic (Claude)
 - **Auth & Analytics** ∙ JWT, NextAuth, OAuth, PostHog
-- **Frontend & UI** ∙ HTML, CSS, Tailwind, Bulma CSS
 
 ---
 
