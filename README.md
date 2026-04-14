@@ -6,12 +6,13 @@ I’m a Software Developer with prior 8 years of product leadership experience, 
 ---
 
 - **Languages** ∙ TypeScript, JavaScript, Python, SQL
-- **Frontend & UI** ∙ React, Remix, Next.js, HTML, CSS, Tailwind
-- **Backend & APIs** ∙ Node.js, Django, Express, Google Cloud Functions, Zod
+- **Frameworks** ∙ React, Remix, Next.js, Express, Django
+- **Backend & APIs** ∙ Node.js, Express, Google Cloud Functions, Zod
 - **Databases** ∙ MongoDB, PostgreSQL, BigQuery
 - **Cloud & Infrastructure** ∙ Google Cloud Platform (GCS, Cloud Tasks), Docker
 - **AI & LLM Systems** ∙ Vercel AI, OpenAI, Gemini, Anthropic (Claude)
 - **Auth & Analytics** ∙ JWT, NextAuth, OAuth, PostHog
+- **Frontend & UI** ∙ HTML, CSS, Tailwind
 
 ---
 
